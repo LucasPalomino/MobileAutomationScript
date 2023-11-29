@@ -1,3 +1,3 @@
 # MobileAutomationScript
 
-A Python script using Appium to automate signing in to an app.
+First attempt at mobile automation using Appium and the Python client.
